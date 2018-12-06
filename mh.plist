@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kzddck-1255515904.file.myqcloud.com/ipa/Telegram X 5.0.2.ipa</string>
+					<string>http://cdn.nk8686.com/apk/GSTD/ios/mhys_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,21 +19,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://kzddck.com/image/app.png</string>
+					<string>https://hua.iggluntan.com/image/az.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 					<key>bundle-identifier</key>
-					<string>xz.kzddck.com</string>
+					<string>aaaa.mhys</string>
 					<key>bundle-version</key>
-					<string>5.0.2</string>
+					<string>v1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Telegram X 5.0.2</string>
+				<string>v1</string>
 				<key>title</key>
-				<string>【Telegram X 5.0.2】验证ID请关注微信公众号：科技贯穿生活</string>
+				<string>【麻花影视】验证ID请关注微信公众号：科技贯穿生活</string>
 			</dict>
 		</dict>
 	</array>
