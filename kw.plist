@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://hua.iggluntan.com/manage/app.png</string>
+					<string>http://iggluntan.com/manage/app.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://hua.iggluntan.com/manage/app.png</string>
+					<string>http://iggluntan.com/manage/app.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
