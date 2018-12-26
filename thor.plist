@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://kzddck.com/image/app.png</string>
+					<string>http://q2.qlogo.cn/headimg_dl?bs=1140414064&dst_uin=1140414064&dst_uin=1140414064&;dst_uin=1140414064&spec=100&url_enc=0&referer=bu_interface&term_type=PC</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -27,13 +27,13 @@
 				<key>bundle-identifier</key>
 				<string>com.vlang.recPay</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>1.20.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>thor</string>
+				<string>影迷大院</string>
 				<key>title</key>
-				<string>【Thro1.2.0】 验证ID请关注微信公众号：科技贯穿生活</string>
+				<string>影迷大院-欢迎使用-公众号科技贯穿生活</string>
 			</dict>
 		</dict>
 	</array>
