@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdn.nk8686.com/apk/GSTD/ios/mhys_resigned.ipa</string>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2018/12/25/cntlmh_3.0.0_f6848d0d-44b5-5847-a212-400d9ebfabae.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://tou.iggluntan.com/images/tubiao.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://iggluntan.com/image/az.png</string>
+					<string>https://tou.iggluntan.com/images/tubiao.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-					<key>bundle-identifier</key>
-					<string>aaaa.mhys</string>
-					<key>bundle-version</key>
-					<string>v1</string>
+				<key>bundle-identifier</key>
+				<string>com.vlang.recPay</string>
+				<key>bundle-version</key>
+				<string>3.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>v1</string>
+				<string>麻花影院</string>
 				<key>title</key>
-				<string>【麻花影视破解版】微信公众号：科技贯穿生活</string>
+				<string>【麻花影院破解版】更多软件请关注微信公众号：科技贯穿生活</string>
 			</dict>
 		</dict>
 	</array>
